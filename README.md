@@ -4,6 +4,8 @@ Site pessoal de **Marcela Cabral**, desenvolvedora com experiência em QA e virt
 
 Feito com HTML, CSS e JavaScript puros, sem frameworks nem etapa de build.
 
+**Site no ar:** [marcelacabral.netlify.app](https://marcelacabral.netlify.app)
+
 ## O que tem no site
 
 - **Sobre:** quem sou, formação e experiência
@@ -41,3 +43,4 @@ Substitua o arquivo `curriculo/CV_Marcela.pdf` mantendo o mesmo nome.
 - E-mail: [mahcabral7@gmail.com](mailto:mahcabral7@gmail.com)
 - LinkedIn: [marcela-cabral7](https://www.linkedin.com/in/marcela-cabral7)
 - GitHub: [marcelacls](https://github.com/marcelacls)
+
